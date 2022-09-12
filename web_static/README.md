@@ -1,1 +1,1 @@
-This directory contains Alx project tasks for the frontend of the AirBnB clone.
+0x01. AirBnB clone - Web static
